@@ -1,0 +1,16 @@
+{
+  "name": "chat_app",
+  "version": "1.0.0",
+  "description": "This is a node Server for LetsChat Application",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Taslim Arif",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.22",
+    "socket.io": "^4.7.1"
+  }
+}
